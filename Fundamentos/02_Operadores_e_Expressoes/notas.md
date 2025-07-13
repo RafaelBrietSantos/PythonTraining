@@ -1,4 +1,4 @@
-# 02_Operadores_e_Expressoes ➕➖✖️➗
+# Operadores e Expressoes ➕➖✖️➗
 
 Esta pasta é dedicada ao estudo e prática dos **operadores matemáticos** (aritméticos) e **expressões** em Python. Aqui, você verá como realizar cálculos, desde os mais básicos até operações mais complexas como potenciação e raiz quadrada, além de explorar funções matemáticas do módulo `math`.
 
