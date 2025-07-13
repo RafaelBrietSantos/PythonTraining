@@ -1,5 +1,7 @@
 # 🐍 Minha Jornada Python: Aprendizado e Desafios
 
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 Bem-vindo(a) ao meu espaço dedicado ao aprendizado de Python! Este repositório é um caderno de bordo digital da minha jornada no universo da programação, focado em consolidar fundamentos, aprimorar o raciocínio lógico e construir projetos práticos.
 
 ---
