@@ -1,8 +1,15 @@
-# 04_Estruturas_de_Repeticao 🔄 Loops e Iteração
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="100"/>
+</p>
 
-Esta pasta é o seu playground para dominar as **Estruturas de Repetição (Loops)** em Python. Aqui, você aprenderá como automatizar tarefas repetitivas, iterar sobre sequências de dados e criar programas que executam ações múltiplas vezes sem precisar reescrever o código.
+# 🔁 Repetição e Poder: Domine os Loops em Python! 🔁
+## 04_Estruturas_de_Repeticao 🔄
 
-Você verá exemplos práticos do uso do loop **`for`**, que é ideal para quando você sabe (ou pode determinar) o número de vezes que uma ação precisa ser repetida. Cada arquivo representa a **resolução de um problema** específico.
+**Pronto para automatizar e otimizar seu código?** ✨
+
+Esta pasta é o seu laboratório para desvendar as **Estruturas de Repetição (Loops)** em Python! Chega de tarefas manuais e repetitivas. Aqui, você aprenderá a dar vida aos seus programas, fazendo-os executar ações inúmeras vezes de forma inteligente e eficiente.
+
+Exploraremos o versátil loop **`for`**, ideal para quando você precisa repetir algo um número conhecido de vezes. Cada arquivo é um **desafio superado**, mostrando o poder da automação na prática!
 
 ---
 
