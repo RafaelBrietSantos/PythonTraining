@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="100"/>
+</p>
+
 # 🚀 Desvende os Fundamentos do Python! 🚀
 ## 01_Variaveis_e_Tipos_de_Dados 📦
 
