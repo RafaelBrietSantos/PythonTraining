@@ -35,7 +35,7 @@ Para facilitar a navegação e o acompanhamento do meu progresso, o repositório
 Aqui estão alguns exemplos do que você encontrará nas pastas:
 
 * **Jogo de Pedra, Papel e Tesoura**: Um dos meus primeiros projetos para aplicar estruturas condicionais e o módulo `random`. Você pode encontrá-lo em `Fundamentos/03_Estruturas_Condicionais/jogo_pedra_papel_tesoura.py`.
-* *(Quando tiver mais projetos, lembre-se de adicionar links ou descrições aqui!)*
+* **
 
 ---
 
