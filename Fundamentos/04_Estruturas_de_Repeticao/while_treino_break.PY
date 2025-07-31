@@ -5,6 +5,6 @@ while True: #True sempre vai ser verdadeiro então ele seria infinito se não ti
         break # Serve para parar o loop, mesmo estando na condição 'True'
               # Essencial para parar loops infinitos ou quando uma condição específica é atingida.
     else:
-        print('ERROU tente novamente: ')
+        print('ERROU tente novamente ')
 
 print('Fim do Programa')
