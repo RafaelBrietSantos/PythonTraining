@@ -72,5 +72,4 @@ while True:
 
     elif escolha == '6':
         break
-
 print('Programa finalizado (☞ﾟヮﾟ)☞')
