@@ -11,7 +11,7 @@ ter1 = int(input('Primeiro termo: '))
 # Pede ao usuário a razão da Progressão Aritmética.
 # A razão é o valor constante que é adicionado a cada termo para obter o próximo.
 # O valor é convertido para um número inteiro e guardado em 'raz'.
-raz = int(input('Razão: '))
+raz = int(input('Razão:  '))
 
 # 'deci = ter1 + (10 - 1) * raz'
 # Esta linha calcula o **décimo termo** da PA.
