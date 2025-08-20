@@ -1,6 +1,6 @@
 tarefas = []
 
-def adicionar_tarfa(tarefas, nome_tarefa):
+def adicionar_tarefa(tarefas, nome_tarefa):
     tarefa = {'nome': nome_tarefa, 'completada': False}
     tarefas.append(tarefa)
     print(f'Tarefa {nome_tarefa} foi adicionado com sucesso!')
@@ -53,7 +53,7 @@ while True:
 
     if escolha == '1':
         nome_tarefa = input('Nome da tarefa que deseja adicionar: ')
-        adicionar_tarfa(tarefas, nome_tarefa)
+        adicionar_tarefa(tarefas, nome_tarefa)
     elif escolha == '2':
         ver_tarefas(tarefas)
     elif escolha == '3':
