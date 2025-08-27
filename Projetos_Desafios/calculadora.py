@@ -50,7 +50,7 @@ while True:
         print(f'{num1} {operador} {num2} = {conta}')
 
 
-
+ 
 
     #Sair
     
